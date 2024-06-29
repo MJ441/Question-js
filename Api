@@ -1,1 +1,223 @@
+[
+  {
+    "answer": "Mount Everest",
+    "category": "Geography",
+    "choices": [
+      "K2",
+      "Mount Everest",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
+    "question": "What is the highest mountain in the world?"
+  },
+  {
+    "answer": "Pacific Ocean",
+    "category": "Geography",
+    "choices": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean"
+    ],
+    "question": "What is the largest ocean on Earth?"
+  },
+  {
+    "answer": "Albert Einstein",
+    "category": "Science",
+    "choices": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Galileo Galilei",
+      "Marie Curie"
+    ],
+    "question": "Who developed the theory of relativity?"
+  },
+  {
+    "answer": "Jupiter",
+    "category": "Astronomy",
+    "choices": [
+      "Mars",
+      "Venus",
+      "Jupiter",
+      "Saturn"
+    ],
+    "question": "Which planet is the largest in our solar system?"
+  },
+  {
+    "answer": "Harper Lee",
+    "category": "Literature",
+    "choices": [
+      "Harper Lee",
+      "Mark Twain",
+      "Ernest Hemingway",
+      "Jane Austen"
+    ],
+    "question": "Who wrote 'To Kill a Mockingbird'?"
+  },
+  {
+    "answer": "Vincent van Gogh",
+    "category": "Art",
+    "choices": [
+      "Pablo Picasso",
+      "Leonardo da Vinci",
+      "Vincent van Gogh",
+      "Claude Monet"
+    ],
+    "question": "Who painted 'Starry Night'?"
+  },
+  {
+    "answer": "Neil Armstrong",
+    "category": "History",
+    "choices": [
+      "Buzz Aldrin",
+      "Yuri Gagarin",
+      "Neil Armstrong",
+      "John Glenn"
+    ],
+    "question": "Who was the first person to walk on the moon?"
+  },
+  {
+    "answer": "Canberra",
+    "category": "Geography",
+    "choices": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane",
+      "Canberra"
+    ],
+    "question": "What is the capital of Australia?"
+  },
+  {
+    "answer": "Thomas Edison",
+    "category": "Inventions",
+    "choices": [
+      "Nikola Tesla",
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "James Watt"
+    ],
+    "question": "Who invented the phonograph?"
+  },
+  {
+    "answer": "Mercury",
+    "category": "Chemistry",
+    "choices": [
+      "Mercury",
+      "Lead",
+      "Silver",
+      "Gold"
+    ],
+    "question": "Which element has the chemical symbol Hg?"
+  },
+  {
+    "answer": "William Shakespeare",
+    "category": "Literature",
+    "choices": [
+      "William Wordsworth",
+      "William Shakespeare",
+      "John Milton",
+      "Geoffrey Chaucer"
+    ],
+    "question": "Who wrote 'Hamlet'?"
+  },
+  {
+    "answer": "Amazon",
+    "category": "Geography",
+    "choices": [
+      "Nile",
+      "Amazon",
+      "Yangtze",
+      "Mississippi"
+    ],
+    "question": "Which is the longest river in the world?"
+  },
+  {
+    "answer": "Alexander the Great",
+    "category": "History",
+    "choices": [
+      "Julius Caesar",
+      "Alexander the Great",
+      "Genghis Khan",
+      "Napoleon Bonaparte"
+    ],
+    "question": "Who was the ancient Macedonian king and conqueror?"
+  },
+  {
+    "answer": "Pablo Picasso",
+    "category": "Art",
+    "choices": [
+      "Salvador Dalí",
+      "Pablo Picasso",
+      "Henri Matisse",
+      "Jackson Pollock"
+    ],
+    "question": "Who is known for co-founding the Cubist movement?"
+  },
+  {
+    "answer": "Isaac Newton",
+    "category": "Science",
+    "choices": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Stephen Hawking",
+      "Richard Feynman"
+    ],
+    "question": "Who formulated the laws of motion and universal gravitation?"
+  },
+  {
+    "answer": "Beijing",
+    "category": "Geography",
+    "choices": [
+      "Shanghai",
+      "Beijing",
+      "Guangzhou",
+      "Shenzhen"
+    ],
+    "question": "What is the capital of China?"
+  },
+  {
+    "answer": "Galileo Galilei",
+    "category": "Astronomy",
+    "choices": [
+      "Johannes Kepler",
+      "Galileo Galilei",
+      "Nicolaus Copernicus",
+      "Tycho Brahe"
+    ],
+    "question": "Who is known as the 'father of observational astronomy'?"
+  },
+  {
+    "answer": "United States",
+    "category": "Geography",
+    "choices": [
+      "China",
+      "India",
+      "United States",
+      "Indonesia"
+    ],
+    "question": "Which country has the largest economy in the world?"
+  },
+  {
+    "answer": "Homer",
+    "category": "Literature",
+    "choices": [
+      "Homer",
+      "Virgil",
+      "Sophocles",
+      "Aeschylus"
+    ],
+    "question": "Who is the author of the epic poems 'The Iliad' and 'The Odyssey'?"
+  },
+  {
+    "answer": "Mars",
+    "category": "Astronomy",
+    "choices": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "question": "Which planet is known as the 'Red Planet'?"
+  }
+]
 
